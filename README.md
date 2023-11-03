@@ -3,7 +3,7 @@
 ## 设置github访问权限，管理代码
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
-# 正式开始
+# 正式开始 [^1]
 [^1]: 本仓库主要储存了学习中的知识点总结
 
 ## cpp基础知识汇总
